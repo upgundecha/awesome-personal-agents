@@ -1,5 +1,5 @@
 {
-  "description": "A curated list of open-source and commercial personal AI agents for life and work, with a selection guide comparing memory, autonomy, privacy, integrations, deployment, and costs.",
+  "description": "A curated list of open-source, self-hosted, and commercial personal AI agents for life and work, with a selection guide comparing memory, autonomy, privacy, integrations, deployment, and costs.",
   "topics": [
     "awesome",
     "awesome-list",
@@ -23,3 +23,4 @@
     "hermes-agent"
   ]
 }
+

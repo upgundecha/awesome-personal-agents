@@ -2,7 +2,7 @@
 
 Research checked: 30 September 2026. Repository-ready companion to `awesome-personal-agents`.
 
-This guide covers both open-source and paid/commercial agents that take actions, complete delegated tasks, or proactively assist an individual. It separates persistent personal assistants, computer/browser task agents, knowledge assistants, and specialist scheduling products. These categories overlap, but their products should not be treated as interchangeable.
+This guide covers both open-source / self-hosted and paid/commercial agents that take actions, complete delegated tasks, or proactively assist an individual. It separates persistent personal assistants, computer/browser task agents, knowledge assistants, and specialist scheduling products. These categories overlap, but their products should not be treated as interchangeable.
 
 ## Disclaimer
 
@@ -36,6 +36,10 @@ The shortlists below are editorial recommendations based on documented capabilit
 | Professional networking and warm introductions | Boardy | Matches people around stated goals, obtains mutual opt-in, and coordinates meetings | Does its network cover your target people, and are introductions useful? |
 | Primarily calendar management | Reclaim, Motion | Scheduling and priority management | Does it handle your calendar provider and scheduling rules? |
 
+## Community resources
+
+Use the [Reddit community directory](communities.md) to find user discussions for each agent. Dedicated communities and broader discussion groups are labeled separately, with evidence links and the verification date. Community feedback can inform evaluation; it is not a benchmark or a substitute for product documentation.
+
 ## Comparison criteria
 
 | Parameter | What to compare | Evidence to request or test |
@@ -60,7 +64,7 @@ The shortlists below are editorial recommendations based on documented capabilit
 | Availability | Country, account tier, waitlist, beta, and enterprise policies | Verify actual signup and eligibility before shortlisting |
 | Project health | Releases, maintenance, issue handling, license, and stars | Review current release activity and maintainer responses |
 
-## Open-source comparison
+## Open-source / self-hosted comparison
 
 Star counts are snapshots from the GitHub repository API on the review date. Each project link is the primary evidence source for its count and description. Recheck before publication and when updating the list.
 
@@ -188,3 +192,4 @@ The project and product links in the comparison tables are primary sources. Addi
 - [Agent Zero license](https://github.com/agent0ai/agent-zero/blob/main/LICENSE)
 
 This is a documentation-based comparison. No hands-on benchmark, security certification, or guaranteed task success is claimed.
+
