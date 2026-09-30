@@ -9,7 +9,7 @@ Thank you for helping maintain Awesome Personal Agents.
 3. Commercial products have no star requirement. Record their pricing model and availability restrictions. A free service is not automatically open source.
 4. Use official repositories, documentation, product pages, release notes, or pricing pages as evidence. Include no affiliate or tracking URLs.
 5. Describe supported capabilities, not marketing promises or roadmap items. Mark unknown information explicitly. Label alpha, beta, and preview products.
-6. Choose the most appropriate category. Add an entry once and use the selection guide to explain overlapping use cases.
+6. Place each entry in Open-source agents or Paid agents. The latter includes commercial services with free tiers or invite-only access; state pricing accurately. Add an entry once and use the selection guide to explain overlapping use cases.
 7. Include ongoing costs where relevant: model APIs, hosting, subscriptions, credits, and service dependencies. Do not label an open-source runtime as cost-free to operate.
 
 Read the [code of conduct](CODE_OF_CONDUCT.md) when participating in project spaces. Disclose any affiliation with a suggested product.

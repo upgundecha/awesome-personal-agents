@@ -2,7 +2,11 @@
 
 Research checked: 30 September 2026. Repository-ready companion to `awesome-personal-agents`.
 
-This guide compares agents that take actions, complete delegated tasks, or proactively assist an individual. It separates persistent personal assistants, computer/browser task agents, knowledge assistants, and specialist scheduling products. These categories overlap, but their products should not be treated as interchangeable.
+This guide covers both open-source and paid/commercial agents that take actions, complete delegated tasks, or proactively assist an individual. It separates persistent personal assistants, computer/browser task agents, knowledge assistants, and specialist scheduling products. These categories overlap, but their products should not be treated as interchangeable.
+
+## Disclaimer
+
+This repository is a guide for discovery and comparison only. Selecting, configuring, granting access to, and using any agent is entirely at the user's discretion and responsibility. Users should evaluate suitability, security, privacy, permissions, costs, and applicable terms before use. Inclusion does not constitute an endorsement or guarantee of safety, reliability, or results.
 
 ## Inclusion policy
 
@@ -26,7 +30,7 @@ The shortlists below are editorial recommendations based on documented capabilit
 | Inexpensive or constrained hardware | PicoClaw, ZeroClaw | Go/Rust implementations designed for a small runtime footprint | What are measured requirements for your workload, excluding the model? |
 | Notes, documents, and personal research | Khoj | Document/web grounding, custom agents, and automations | Can it retrieve and cite your sources accurately? |
 | Delegated browser and computer tasks | Agent Zero, OpenMuse — CopilotKit, Manus, Claude | Agent workspaces, browser actions, or file-based task execution | Can you inspect progress, intervene, and resume unfinished work? |
-| Consumer life administration | Meta Muse, Poke, Wajo / Fo; Instinct subject to access verification | Personal context and everyday connected-service workflows | Is it available in your country and compatible with your services? |
+| Consumer life administration | Meta Muse, Poke, Wajo / Fo; Instinct with an invitation | Personal context and everyday connected-service workflows | Is it available in your country and compatible with your services? |
 | Work across Microsoft 365 | Copilot Autopilot, when eligible | Persistent workplace agent integrated with Copilot | Are preview access, tenant permissions, and usage budgets available? |
 | A hosted personal agent across connected apps | Dots, when eligible; Lindy | Managed execution and connected-app actions | Does your account support the required capabilities and approvals? |
 | Professional networking and warm introductions | Boardy | Matches people around stated goals, obtains mutual opt-in, and coordinates meetings | Does its network cover your target people, and are introductions useful? |
@@ -94,7 +98,7 @@ Setup estimates are editorial judgments: **Medium** means installing/configuring
 | OpenMuse — CopilotKit | Persistent browser, optional Linux workspace, editable memory, task plans and approvals | High | Alpha status and required service configuration; autonomous checkout and graphical desktop are roadmap items |
 | Moltis | Sandboxed command execution, voice, memory, scheduling, browser automation, and MCP | Medium | Your container runtime, connector coverage, and recovery on your deployment |
 
-## Commercial and hosted comparison
+## Paid and commercial comparison
 
 Pricing is expressed as a model rather than a fixed amount because subscriptions, credits, quotas, and eligibility change. Verify the linked official pages before purchase. Setup estimates are editorial judgments; connector authorization can add effort.
 
@@ -108,7 +112,7 @@ Pricing is expressed as a model rather than a fixed amount because subscriptions
 | [Claude / Cowork capabilities](https://claude.com/product/cowork) | Files, research, deliverables, and scheduled work | Desktop/web/mobile capabilities; browser and connected tools | Paid plan; plan-specific limits | Low–Medium; current page says Cowork is becoming Claude |
 | [Dots](https://help.openai.com/en/articles/20001554-manage-dots-in-chatgpt-workspaces) | Personal agent across connected apps | Cloud browser/computer; optional local access; supported messaging | Commercial account eligibility; confirm current plan terms | Low–Medium; beta, gradual rollout |
 | [Copilot Autopilot](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/) | Persistent personal workplace agent | Microsoft Copilot managed experience | Usage-based billing | Private preview; tenant/admin setup may be required |
-| [Instinct](https://instinct.com/) | Proactive everyday assistance by text or phone | Connected apps/devices; phone/computer actions | Unknown from verified product page | Signup, price, and availability unverified |
+| [Instinct](https://instinct.com/) | Proactive everyday assistance by text or phone | Connected apps/devices; phone/computer actions | Free to use as of 30 September 2026 | Invite-only; confirm geographic availability |
 | [Perplexity Comet](https://www.perplexity.ai/comet) | Browser-based task assistance | Browser assistant | Confirm current plan requirements | Low–Medium; browser-focused category |
 | [Boardy](https://www.boardy.ai/) | Professional networking, warm introductions, and follow-through | Hosted specialist agent; conversation, email, and calendar coordination | Terms describe free use; Pro is advertised, but current fees are unverified | Low–Medium; specialist networking category |
 | [Motion](https://www.usemotion.com/pricing) | Task planning and calendar optimization | Managed calendar/project service | Paid plans | Low–Medium; specialist category |
