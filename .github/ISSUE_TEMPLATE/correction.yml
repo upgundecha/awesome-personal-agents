@@ -1,0 +1,17 @@
+name: Correct an entry
+description: Report inaccurate information, deprecation, or broken links.
+title: "Fix: "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry name and current URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Problem and proposed correction
+      description: Include upstream evidence and replacement URLs if available.
+    validations:
+      required: true

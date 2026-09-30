@@ -12,14 +12,18 @@ Thank you for helping maintain Awesome Personal Agents.
 6. Choose the most appropriate category. Add an entry once and use the selection guide to explain overlapping use cases.
 7. Include ongoing costs where relevant: model APIs, hosting, subscriptions, credits, and service dependencies. Do not label an open-source runtime as cost-free to operate.
 
+Read the [code of conduct](CODE_OF_CONDUCT.md) when participating in project spaces. Disclose any affiliation with a suggested product.
+
 ## Submit a change
 
 - Keep entries alphabetized within their category, ignoring capitalization.
-- Use `- [Name](canonical-url) — One factual sentence. **Relevant labels**`.
+- Use `- [Name](https://example.com) - One factual sentence. **Relevant labels**.`.
 - Keep the README concise; place detailed comparisons in `docs/selection-guide.md`.
 - In the pull request description, include the category, user-facing value, primary evidence, last-verified date, and applicable license/star count.
 - Update the selection guide when a change affects its recommendations, comparison tables, or inclusion status.
 - For corrections, explain what changed and cite the primary source.
+
+Run `npm ci --ignore-scripts` and `npm run lint` with Node.js 22 or newer before submitting. Explain any checks you could not run.
 
 ## Review checks
 

@@ -1,0 +1,17 @@
+{
+  "name": "awesome-personal-agents",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A curated list of personal AI agents, open-source assistants, and hosted tools for everyday life and work. Compare memory, autonomy, privacy, deployment, integrations, and costs.",
+  "license": "CC0-1.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "lint": "node scripts/lint.mjs",
+    "lint:full": "awesome-lint README.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "2.3.0"
+  }
+}

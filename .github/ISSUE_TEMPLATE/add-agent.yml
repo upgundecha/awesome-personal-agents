@@ -1,0 +1,61 @@
+name: Suggest a personal agent
+description: Propose a personal AI agent or specialist assistant.
+title: "Add: "
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Product name and canonical URL
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Persistent personal assistant
+        - Computer and task agent
+        - Personal knowledge and research
+        - Hosted personal assistant and life administration
+        - Browser and delegated task agent
+        - Specialist networking or scheduling agent
+        - Preview or availability-restricted agent
+    validations:
+      required: true
+  - type: dropdown
+    id: distribution
+    attributes:
+      label: Distribution
+      options:
+        - Open source
+        - Commercial or hosted
+    validations:
+      required: true
+  - type: textarea
+    id: eligibility
+    attributes:
+      label: License, stars, and access
+      description: For open source, link the license and canonical repository, give the current star count (minimum 1,000), and date checked. For hosted products, give pricing and availability evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Personal-agent usefulness and primary evidence
+      description: Link official documentation and describe actions, memory, tools, and any testing performed.
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Limitations and requirements
+      description: Note deployment, model or hosting costs, human assistance, preview status, and unsupported or planned features.
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: State your relationship to the project, or write none.
+    validations:
+      required: true
