@@ -1,25 +1,25 @@
 {
-  "description": "A curated list of personal AI agents, open-source assistants, and hosted tools for everyday life and work. Compare memory, autonomy, privacy, deployment, integrations, and costs.",
+  "description": "A curated list of open-source and commercial personal AI agents for life and work, with a selection guide comparing memory, autonomy, privacy, integrations, deployment, and costs.",
   "topics": [
     "awesome",
     "awesome-list",
     "personal-agents",
     "personal-ai",
+    "personal-assistant",
     "ai-agents",
     "ai-assistant",
-    "autonomous-agents",
     "agentic-ai",
+    "autonomous-agents",
+    "persistent-agents",
     "open-source",
     "self-hosted",
     "productivity",
     "automation",
-    "persistent-agents",
     "ai-memory",
     "computer-use",
     "browser-automation",
     "mcp",
     "openclaw",
-    "hermes-agent",
-    "personal-assistant"
+    "hermes-agent"
   ]
 }
