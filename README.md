@@ -57,6 +57,7 @@ All entries below passed the 1,000-star threshold on the review date. Counts, li
 - [NanoClaw](https://github.com/nanocoai/nanoclaw) - Lightweight messaging assistant with container-isolated agent execution, memory, and scheduled jobs, built on Anthropic's Agent SDK. **MIT · 🏠 · 💳**. [Reddit](https://www.reddit.com/r/NanoClawAI/).
 - [OpenClaw](https://github.com/openclaw/openclaw) - Personal assistant with persistent local state, messaging channels, companion apps, skills, and configurable model providers and harnesses. **MIT · 🏠 · 💳**. [Reddit](https://www.reddit.com/r/openclaw/).
 - [OpenMuse - CopilotKit](https://github.com/CopilotKit/openmuse) - Personal-agent application with a persistent browser, optional Linux workspace, editable memory, visible plans, and action approvals. An independent project; autonomous checkout and graphical desktop support are roadmap items. **MIT · 🏠 · 💳 · 🧪 Alpha**.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI team where Commander coordinates specialists to turn project goals and files into reports, documents and code. **MIT · 🏠 · 💳**. [Reddit discussion](https://www.reddit.com/r/AI_Agents/).
 - [PicoClaw](https://github.com/sipeed/picoclaw) - Lightweight Go personal assistant designed for inexpensive hardware and multiple processor architectures. **MIT · 🏠 · 💳**. [Reddit discussion](https://www.reddit.com/r/openclaw/).
 - [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Rust personal-agent runtime with configurable model providers, messaging channels, shell/browser tools, and MCP. **MIT / Apache-2.0 · 🏠 · 💳**. [Reddit](https://www.reddit.com/r/zeroclawlabs/).
 
@@ -94,6 +95,7 @@ These are starting points based on documented features, not rankings.
 | A small runtime for constrained hardware | PicoClaw, ZeroClaw                |
 | Personal documents and research          | Khoj                              |
 | Computer/browser workspaces              | Agent Zero, OpenMuse - CopilotKit |
+| Desktop projects and deliverables        | Orkas                             |
 | Managed task execution and deliverables  | Manus, Claude                     |
 | Everyday life administration             | Meta Muse, Poke, Wajo / Fo        |
 | Professional networking                  | Boardy                            |

@@ -17,6 +17,7 @@ This directory covers every agent in the list. **Dedicated** means the subreddit
 | NanoClaw | [r/NanoClawAI](https://www.reddit.com/r/NanoClawAI/) | Dedicated | [Source](https://www.reddit.com/r/NanoClawAI/) |
 | OpenClaw | [r/openclaw](https://www.reddit.com/r/openclaw/) | Dedicated | [Source](https://www.reddit.com/r/openclaw/) |
 | OpenMuse - CopilotKit | Not verified | Not verified | No suitable community verified |
+| Orkas | [r/AI_Agents](https://www.reddit.com/r/AI_Agents/) | Broader discussion; checked 31 October 2026 | [Product discussion](https://www.reddit.com/r/AI_Agents/comments/1tvjxtt/i_opensourced_orkas_a_localfirst_desktop_agent/) |
 | PicoClaw | [r/openclaw](https://www.reddit.com/r/openclaw/) | Broader discussion | [Source](https://www.reddit.com/r/openclaw/comments/1r8xd00/anyone_tried_picoclaw_an_ai_assistant_that/) |
 | ZeroClaw | [r/zeroclawlabs](https://www.reddit.com/r/zeroclawlabs/) | Dedicated | [Source](https://www.reddit.com/r/zeroclawlabs/) |
 

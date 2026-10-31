@@ -30,6 +30,7 @@ The shortlists below are editorial recommendations based on documented capabilit
 | Inexpensive or constrained hardware | PicoClaw, ZeroClaw | Go/Rust implementations designed for a small runtime footprint | What are measured requirements for your workload, excluding the model? |
 | Notes, documents, and personal research | Khoj | Document/web grounding, custom agents, and automations | Can it retrieve and cite your sources accurately? |
 | Delegated browser and computer tasks | Agent Zero, OpenMuse — CopilotKit, Manus, Claude | Agent workspaces, browser actions, or file-based task execution | Can you inspect progress, intervene, and resume unfinished work? |
+| Desktop projects and coordinated deliverables | Orkas | Commander coordinates specialist agents around project files, memory, to-dos, and scheduled preparation | Are the device, chosen models, and required authorized tools available when work runs? |
 | Consumer life administration | Meta Muse, Poke, Wajo / Fo; Instinct with an invitation | Personal context and everyday connected-service workflows | Is it available in your country and compatible with your services? |
 | Work across Microsoft 365 | Copilot Autopilot, when eligible | Persistent workplace agent integrated with Copilot | Are preview access, tenant permissions, and usage budgets available? |
 | A hosted personal agent across connected apps | Dots, when eligible; Lindy | Managed execution and connected-app actions | Does your account support the required capabilities and approvals? |
@@ -81,6 +82,7 @@ Star counts are snapshots from the GitHub repository API on the review date. Eac
 | [PicoClaw](https://github.com/sipeed/picoclaw) | 30,023 | MIT | Self-hosted Go runtime; model-provider configuration | Constrained hardware |
 | [Agent Zero](https://github.com/agent0ai/agent-zero) | 19,352 | MIT | Dockerized Linux agent workspace | Computer, browser, and file tasks |
 | [IronClaw](https://github.com/nearai/ironclaw) | 12,637 | MIT / Apache-2.0 | Self-hosted Rust agent system | Tool permissions and credential boundaries |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | 5,028 (31 October 2026) | MIT | Local-first desktop app; supported own-provider APIs or compatible local model endpoints | Coordinated research, office files, content, and code deliverables |
 | [OpenMuse — CopilotKit](https://github.com/CopilotKit/openmuse) | 3,270 | MIT | Self-hosted app/workers; model configuration and CopilotKit service key | Inspectable personal-agent application; alpha |
 | [Moltis](https://github.com/moltis-org/moltis) | 2,877 | MIT | Self-hosted Rust server; multiple model providers | Persistent assistant with sandboxed command execution |
 
@@ -99,6 +101,7 @@ Setup estimates are editorial judgments: **Medium** means installing/configuring
 | PicoClaw | Small Go runtime and multiple hardware architectures | Medium | Published memory claims exclude the cost of running a local language model; measure your setup |
 | Agent Zero | Linux computer, browser, projects, skills, and plugins | Medium–High | Host bridge exposure, persistence, and access boundaries for computer tasks |
 | IronClaw | WASM isolation for untrusted tools, endpoint allowlisting, credential injection, and tool audit logs | Medium | Coverage of each tool boundary and real behavior when a requested action is blocked |
+| Orkas | Commander-led specialist coordination, persistent project context, editable memory, reusable skills, and device-bound to-dos/automations | Medium | Models and connected services can receive supplied data; own-provider usage can cost extra, and scheduled work needs the assigned device and app available |
 | OpenMuse — CopilotKit | Persistent browser, optional Linux workspace, editable memory, task plans and approvals | High | Alpha status and required service configuration; autonomous checkout and graphical desktop are roadmap items |
 | Moltis | Sandboxed command execution, voice, memory, scheduling, browser automation, and MCP | Medium | Your container runtime, connector coverage, and recovery on your deployment |
 
@@ -189,6 +192,8 @@ The project and product links in the comparison tables are primary sources. Addi
 - [Manus membership options](https://help.manus.im/en/articles/11711111-what-is-the-current-membership-pricing-for-manus)
 - [Manus credit usage](https://manus.im/help/credits)
 - [Reclaim agentic scheduling overview](https://help.reclaim.ai/en/articles/14846468-reclaim-ai-2-0-overview)
+- [Orkas README, models, source/packaged editions, and device availability](https://github.com/Orkas-AI/Orkas/blob/main/README.md) (checked 31 October 2026)
+- [Orkas MIT license](https://github.com/Orkas-AI/Orkas/blob/main/LICENSE) (checked 31 October 2026)
 - [Agent Zero license](https://github.com/agent0ai/agent-zero/blob/main/LICENSE)
 
 This is a documentation-based comparison. No hands-on benchmark, security certification, or guaranteed task success is claimed.
